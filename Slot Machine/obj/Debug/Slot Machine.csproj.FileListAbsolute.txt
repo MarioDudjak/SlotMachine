@@ -1,0 +1,18 @@
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\obj\Debug\Slot Machine.pdb
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\bin\Debug\Slot Machine.exe
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\bin\Debug\Slot Machine.pdb
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\obj\Debug\Slot Machine.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\obj\Debug\Slot Machine.csproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\Slot Machine\Slot Machine\obj\Debug\Slot Machine.exe
+C:\Users\Student\Desktop\SlotMachine-master\Slot Machine\obj\Debug\Slot Machine.exe
+C:\Users\Student\Desktop\SlotMachine-master\Slot Machine\obj\Debug\Slot Machine.pdb
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\obj\Debug\Slot Machine.exe
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\obj\Debug\Slot Machine.pdb
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\obj\Debug\Slot Machine.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\obj\Debug\Slot Machine.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\bin\Debug\Slot Machine.exe
+C:\Users\Student\Desktop\SlotMachine\Slot Machine\bin\Debug\Slot Machine.pdb
